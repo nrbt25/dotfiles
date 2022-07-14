@@ -10,3 +10,7 @@ require "plugins"
 
 -- lsp
 require "lsp"
+
+-- theme
+vim.cmd "colorscheme jellybeans"
+
